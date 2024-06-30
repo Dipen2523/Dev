@@ -1,4 +1,3 @@
----
 
 ## Vercel Configuration (`vercel.json`)
 
@@ -100,4 +99,3 @@ app.listen(port, () => {
 - **Express.js:** A web framework for Node.js used to handle HTTP requests and define routes in `server.js`.
 - **Environment Variables:** `process.env.PORT` retrieves the port number from environment variables, useful for configuring the port in different environments.
 
----
